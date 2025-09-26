@@ -56,12 +56,3 @@ Therefore, this project will additionally use 1 GPU to train the reward network 
 
 - We use Qwen2.5 series base model [Qwen2.5](https://github.com/QwenLM/Qwen2.5)
 
-## Citation
-```
-@article{gao2025navigate,
-  title={Navigate the unknown: Enhancing llm reasoning with intrinsic motivation guided exploration},
-  author={Gao, Jingtong and Pan, Ling and Wang, Yejing and Zhong, Rui and Lu, Chi and Cai, Qingpeng and Jiang, Peng and Zhao, Xiangyu},
-  journal={arXiv preprint arXiv:2505.17621},
-  year={2025}
-}
-```
